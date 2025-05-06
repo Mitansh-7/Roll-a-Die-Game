@@ -18,8 +18,9 @@ This is a simple GUI-based dice rolling game built using Python and the Tkinter 
 ---
 
 ## 📷 Screenshot
+![image](https://github.com/user-attachments/assets/1c4a78dc-5968-4554-9652-36ce6152d61c)
 
-*(Optional: Add a screenshot of your app here)*
+
 
 ---
 
